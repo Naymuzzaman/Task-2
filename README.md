@@ -1,2 +1,1 @@
-# Task-2
-ffd
+Here I solve some of the tasks using C#
